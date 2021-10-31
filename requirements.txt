@@ -1,0 +1,4 @@
+pandas==1.1.5
+nltk==3.6.5
+contractions==0.0.55
+sacremoses==0.0.46
