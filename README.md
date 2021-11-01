@@ -37,9 +37,14 @@ This method implements below steps from paper
     10. Final csv file with normalized data
 
 ## Usage
-Run main.py or script.sh to execute step-1 of this POC
+Run main.py or script.sh to execute step-1 of this POC.
+To execute this the original emails.csv(mentioned in the paper) should be downloaded and stored in data folder
+https://www.kaggle.com/wcukierski/enron-email-dataset/download
 
 ```bash
 python main.py
+```
+or
+```bash
 sh script.sh 
 ```
